@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">PresensiUsingMap</string>
+    <string name="button_lihat_presensi">Lihat Presensi</string>
+    <string name="button_presensi">Check Presensi</string>
+    <string name="status_wfh">Absen WFH</string>
+    <string name="status_wfo">Absen WFO</string>
+    <string name="sudah_absen">Sudah Absen</string>
+    <string name="daftar_presensi">Daftar Presensi</string>
+    <string name="presensi">Presensi</string>
+</resources>
